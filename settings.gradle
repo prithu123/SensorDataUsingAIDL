@@ -1,0 +1,3 @@
+include ':sensorData'
+include ':app'
+rootProject.name = "Orientation AIDL"
